@@ -1,0 +1,35 @@
+/* 
+  InfoPlist.strings
+  LCCopybook
+
+  Created by lc-macbook pro on 2018/1/22.
+  Copyright © 2018年 http://www.cnblogs.com/saytome/. All rights reserved.
+*/
+
+//CFBundleDisplayName = "Copybook";
+//
+//
+////MARK:设置
+//LCCopybookSettingPage = "设置"
+////1
+//LCCopybookSettingBasic = "基本设置"
+//LCCopybookSettingShowGrid = "显示网格"
+//LCCopybookSettingGridColor = "网格颜色"
+//
+////2
+//LCCopybookSettingFont = "字体"
+//LCCopybookSettingFontAutoSize= "自适应大小"
+//LCCopybookSettingFontSize = "自定义大小"
+//SettingFontColor = "自定义大小"
+//
+////3
+//SettingFont = "方框"
+//SettingFontAutoSize= "自适应大小"
+//SettingFontSize = "自定义大小"
+//
+//
+//
+//
+////MARK:主页
+//MainPage = "主页"
+
