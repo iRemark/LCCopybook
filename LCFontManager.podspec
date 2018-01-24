@@ -8,7 +8,7 @@ s.license      = "MIT"
 s.author       = { "iRemark" => "lc081200@163.com" }
 s.platform     = :ios, "9.0"
 s.source       = { :git => "https://github.com/iRemark/LCCopybook.git", :tag => "0.0.1" }
-s.source_files  = "LCCopybook/LCFontManager/*"
+s.source_files  = "LCFontManager/*"
 
 s.requires_arc = true
 
