@@ -87,7 +87,7 @@
                 // Log the font URL in the console
                 CTFontRef fontRef = CTFontCreateWithName((__bridge CFStringRef)fontName, 0., NULL);
                 CFStringRef fontURL = CTFontCopyAttribute(fontRef, kCTFontURLAttribute);
-                NSLog(@"%@", (__bridge NSURL*)(fontURL));
+                
                 CFRelease(fontURL);
                 CFRelease(fontRef);
                 
